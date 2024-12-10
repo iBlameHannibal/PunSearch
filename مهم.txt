@@ -1,0 +1,6 @@
+*قم بتحميل المكاتب الاتية*
+* pip install requests
+* pip install json
+* pip installtime
+* pip install random
+* pip install os
